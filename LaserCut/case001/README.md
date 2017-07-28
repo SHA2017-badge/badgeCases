@@ -6,6 +6,7 @@ Free as 'free speech' and free as 'free beer'. (author would accept free beer an
 
 ##Suggested assembly:
 
+![Alt text](case001.jpg?raw=true "case001")
 
 ###Backplate:
 Just cut Backplate, use 6-10mm screws for the pcb.
