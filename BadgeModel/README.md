@@ -4,8 +4,6 @@ badge 3d model desing by successbyfailure.
 
 Free as 'free speech' and free as 'free beer'. (author would accept free beer||mate though)
 
-# case002
-
 ![Alt text](badge.png?raw=true "badgeModel")
 
 badgeModelSimplistic is a basic model for the badge, including only the main features.

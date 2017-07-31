@@ -8,4 +8,4 @@ You can find badge 3d/2d models in the badge folder. Use them in you favorite de
 
 ![Alt text](LaserCut/case002/case002.jpg?raw=true "case002")
 
-![Alt text](3DPrint/basicCase/basicCase.jpg?raw=true "basicCase")
+![Alt text](3Dprint/basicCase/basicCase.jpg?raw=true "basicCase")
